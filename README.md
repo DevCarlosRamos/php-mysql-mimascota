@@ -13,7 +13,7 @@
 - Contenido (Titulo, foto, descripción, región, fecha)
 - Crear post – botón
 ###### 2. Inicio 
-- Listar todo los post
+- Listar todos los post
 ###### 3. Menú
 - Dos páginas (Inicio, Publicar, Apoyar)
 ###### 4. Sub Menú en inicio
