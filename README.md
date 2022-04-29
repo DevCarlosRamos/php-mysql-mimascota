@@ -3,7 +3,7 @@
 - GIT – control de versiones
 - FIGMA - diseño
 - HTML5
-- BOOTSTRAP 4
+- BOOTSTRAP 5
 - PHP
 - Mysql
 - Paypal donaciones
