@@ -9,18 +9,18 @@
 - Paypal donaciones
 - Despliegue en AWS
 ## Acciones a implementar 
-- Publicar post 
+###### 1. Publicar post 
 - Contenido (Titulo, foto, descripción, región, fecha)
 - Crear post – botón
-- Inicio 
+###### 2. Inicio 
 - Listar todo los post
-- Menú
+###### 3. Menú
 - Dos páginas (Inicio, Publicar, Apoyar)
-
-### Sub Menú en inicio
+###### 4. Sub Menú en inicio
 - Botón (listar por lugar)
 
 
 ### Página Apoyar
 
 Información de nosotros y botón de donaciones
+
