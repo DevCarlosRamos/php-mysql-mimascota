@@ -10,7 +10,7 @@
     integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/css/main.css">
 
   <!-- FONTS -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,25 +51,25 @@
       <div class="mascotas">
         <div class="mascotas-left">
           <div class="img-container">
-            <img src="/assets/img/dog-3.jpg" alt="dog-1">
+            <img src="/img/dog-3.jpg" alt="dog-1">
           </div>
           <div class="carrusel-container">
             <div>
-              <img src="/assets/img/dog-2.png" alt="dog-1">
+              <img src="/img/dog-2.png" alt="dog-1">
             </div>
             <div >
-              <img src="/assets/img/dog-3.jpg" alt="dog-2">
+              <img src="/img/dog-3.jpg" alt="dog-2">
             </div>
             <div>
-              <img src="/assets/img/dog-2.png" alt="dog-3">
+              <img src="/img/dog-2.png" alt="dog-3">
             </div>
             <div>
-              <img src="/assets/img/dog-1.jpg" alt="">
+              <img src="/img/dog-1.jpg" alt="">
             </div>
           </div>
         </div>
         <div class="mascota-right">
-          <h3 class="name-mascota">José Reynaldo Zafra Vargas</h3>
+          <h3 class="name-mascota">José Edinson Zafra Vargas</h3>
           <p class="description-mascota">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt rem ullam delectus deserunt esse adipisci omnis inventore qui placeat doloribus, perspiciatis assumenda itaque iste magni distinctio quia, debitis cupiditate deleniti?</p>
           <p class="description-mascota">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt rem ullam delectus deserunt esse adipisci omnis inventore qui placeat doloribus, perspiciatis assumenda itaque iste magni distinctio quia, debitis cupiditate deleniti?</p>
           <div class="btn-adoptar">
@@ -81,7 +81,7 @@
   </section>
 
   <!-- script js -->
-  <script src="/assets/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"></script>
