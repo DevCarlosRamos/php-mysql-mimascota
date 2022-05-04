@@ -1,0 +1,17 @@
+.menu{
+    background-color: #CBFFE6;
+}
+
+.formulario{
+    background-color: #FFE8CB;
+    padding: 40px 40px;
+}
+.boton{
+    background-color: #FFCBDC;
+}
+
+.boton{
+    color: #000;
+    font-weight: bold;
+    border-radius: 10px;
+}
