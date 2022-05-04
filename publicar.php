@@ -1,7 +1,5 @@
 <script src="js/post.js? rev= <?php echo time(); ?> "> </script>
-<?php
-include("header.php")
-?>
+<?php include("header.php") ?>
 
 <!DOCTYPE html>
 <html lang="es">

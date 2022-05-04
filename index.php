@@ -1,25 +1,11 @@
-<?php include("header.php") ?>
-<?php include("conexion.php"); ?>
+  <?php include("header.php") ?>
+  <?php include("conexion.php"); ?>
 
-<?php
-$objCone = new conexion;
-$objCone->conexionPDO();
-$resultado = $objCone->consultar("SELECT * FROM mimascotabd.post;");
-?>
-
-<!DOCTYPE html>
-<html lang="es">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mi Mascota</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
-  <link href="css/incio.css" rel="stylesheet" />
-</head>
-
-<body>
+  <?php
+  $objCone = new conexion;
+  $objCone->conexionPDO();
+  $resultado = $objCone->consultar("SELECT * FROM mimascotabd.post;");
+  ?>
 
   <div class="navbar buscador">
     <form class="formBuscador">
@@ -27,7 +13,7 @@ $resultado = $objCone->consultar("SELECT * FROM mimascotabd.post;");
       <button type="submit" class="boton">Buscar</button>
     </form>
   </div>
-  </div>
+
   <div class="contenedor">
 
     <!-- Carta +14 -->
@@ -59,6 +45,6 @@ $resultado = $objCone->consultar("SELECT * FROM mimascotabd.post;");
       </div>
     <?php   }      ?>
   </div>
-</body>
+  </body>
 
-</html>
+  </html>
