@@ -40,7 +40,7 @@ class conexion
 
     function cerrar_conexion()
     {
-        $this->$pdo = null;
+        $this->pdo = null;
     }
 }
 

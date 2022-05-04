@@ -16,10 +16,7 @@ include("header.php")
 
 </head>
 
-
 <body>
-
-
 
   <div class="container">
     <div class="row justify-content-center">
@@ -49,9 +46,8 @@ include("header.php")
               <label for="region" class="col-sm-2 col-form-label">Región</label>
               <div class="col-sm-10">
                 <select class="form-select" id="select_region">
-                  <option selected>Seleccione región</option>
                   <option value="Amazonas">Amazonas</option>
-                  <option value="Lambayeque">Lambayeque</option>
+                  <option selected value="Lambayeque">Lambayeque</option>
                   <option value="Ancash">Ancash</option>
                   <option value="Lima">Lima</option>
                   <option value="Arequipa">Arequipa</option>

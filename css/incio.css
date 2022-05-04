@@ -4,12 +4,6 @@
   margin: 0;
 }
 
-.navbar {
-  padding: 5px 10%;
-  font-weight: 900;
-  background-color: #cbffe6 !important;
-}
-
 .navbar-brand {
   font-size: 25px;
 }
