@@ -7,10 +7,10 @@
   $resultado = $objCone->consultar("SELECT * FROM mimascotabd.post;");
   ?>
 
-  <div class="navbar buscador">
+  <div class="buscador">
     <form class="formBuscador">
       <input type="text" class="form-control">
-      <button type="submit" class="boton">Buscar</button>
+      <button type="submit" class="boton--inicio">Buscar</button>
     </form>
   </div>
 
@@ -25,7 +25,7 @@
         </div>
 
         <div class="container">
-          <img class="imagenes" src="img/callejero.jpg ?>" alt="mascota" />
+          <img class="imagenes" src="<?php echo $post['imguno']; ?>" alt="mascota" />
         </div>
 
         <div class="container">
@@ -41,7 +41,7 @@
         <div class="contenedor-lugar">
           <p class="lugar"> Soy de <?php echo " " . $post['lugar']; ?> </p>
         </div>
-        <button type="button" class="boton">Ver</button>
+        <button type="button" class="boton--inicio">Ver</button>
       </div>
     <?php   }      ?>
   </div>

@@ -13,6 +13,7 @@
   background-color: #ffd7ff !important;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .formBuscador {
@@ -93,7 +94,7 @@
   color: #979797;
 }
 
-.boton {
+.boton--inicio {
   width: 100px;
   height: 30px;
   display: block;
