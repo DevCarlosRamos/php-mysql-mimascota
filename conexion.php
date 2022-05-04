@@ -10,9 +10,6 @@ class conexion
 
     private  $pdo;
 
-
-
-
     public function conexionPDO()
     {
 
