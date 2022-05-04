@@ -39,7 +39,7 @@ $resultado = $objCone->consultar("SELECT * FROM mimascotabd.post;");
         </div>
 
         <div class="container">
-          <img class="imagenes" src="img/callejero.jpg" alt="mascota" />
+          <img class="imagenes" src="img/callejero.jpg ?>" alt="mascota" />
         </div>
 
         <div class="container">
