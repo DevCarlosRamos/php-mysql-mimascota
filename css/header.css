@@ -1,0 +1,16 @@
+.navbar {
+    padding: 5px 10%;
+    font-weight: 900;
+    background-color: #cbffe6 !important;
+  }
+
+  nav a {
+    color: #000;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  div a.nav-link {
+    color: #000;
+    font-weight: bold;
+  }

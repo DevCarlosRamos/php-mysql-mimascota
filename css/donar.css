@@ -1,0 +1,20 @@
+
+.dona {
+    
+    width: 976px;
+    height: 702px;
+    left: 25px;
+    top: 104px;
+    background: #B4FFFF;
+}
+
+.botonpa {
+    
+    width: 177px;
+    height: 45px;
+    left: 424px;
+    top: 251px;
+    background: #FFCBDC;
+    border-radius: 20px;
+    font-weight: bold;
+}

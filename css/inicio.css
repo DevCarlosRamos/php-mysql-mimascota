@@ -4,12 +4,6 @@
   margin: 0;
 }
 
-.navbar {
-  padding: 5px 10%;
-  font-weight: 900;
-  background-color: #cbffe6 !important;
-}
-
 .navbar-brand {
   font-size: 25px;
 }
@@ -19,6 +13,7 @@
   background-color: #ffd7ff !important;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .formBuscador {
@@ -99,7 +94,7 @@
   color: #979797;
 }
 
-.boton {
+.boton--inicio {
   width: 100px;
   height: 30px;
   display: block;
